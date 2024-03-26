@@ -2,7 +2,7 @@
   <img src="https://github.com/Tahascommit/PowerBI-Advance_Adventure_Works_Bike_Sales/blob/ada05458af99fe35f5cf08b664077f9ff024ad8c/assets/Cover_Image.png" width="703" height="340">
 </p >
 
-# PowerBI-Advance_Adventure_Works_Bike_Sales
+# PowerBI-Advance Adventure Works Bike Sales
 This project consists of comprehensive Power BI dashboards, which visualize sales data for AdventureWorks, a bike and accessories retailer. The dashboards offer insights on customer demographics, sales trends, product performance, and regional sales distribution, aimed at enhancing strategic business decisions.
 
 # Dasboard Snaps
