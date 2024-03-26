@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
   <img src="https://github.com/Tahascommit/PowerBI-Advance_Adventure_Works_Bike_Sales/blob/ada05458af99fe35f5cf08b664077f9ff024ad8c/assets/Cover_Image.png" width="703" height="340">
 </p >
 
