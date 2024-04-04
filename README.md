@@ -21,6 +21,12 @@ The dashboard is structured into various sections, each highlighting a crucial a
 *   **Performance Metrics:** Gauges such as monthly revenue versus targets, profit tracking, and return rates help in setting and monitoring strategic goals.
 *   **Customer Analysis:** Reveals unique customer counts, revenue per customer, orders by income level, and orders by occupation, which are vital for targeted marketing campaigns.
 
+Advanced Analytics Features
+---------------------------
+
+*   **Forecasting:** Implementing Power BI's built-in forecasting models to predict sales trends and revenues, providing the foresight needed to make informed inventory and marketing decisions.
+*   **Outlier Detection:** Utilizing Power BI's advanced analytics to identify and investigate outliers in sales data which could indicate emerging trends or data entry errors.
+
 Insights and Business Impact
 ----------------------------
 
